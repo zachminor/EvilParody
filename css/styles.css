@@ -352,3 +352,11 @@ input.button:hover {
   color: lightblue;
   background: #870003;
 }
+
+/* =====
+FUNCTION
+=====*/
+
+.hide {
+  display: none;
+}
