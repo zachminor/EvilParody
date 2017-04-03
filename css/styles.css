@@ -353,10 +353,23 @@ input.button:hover {
   background: #870003;
 }
 
-/* =====
-FUNCTION
-=====*/
+/* ===== FUNCTION =====*/
 
 .hide {
   display: none;
+}
+
+
+/* ============ MEDIA QUERIES ============= */
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 20pt
+  }
+  h2 {
+    font-size: 15pt
+  }
+  p {
+    font-size: 10pt
+  }
 }
